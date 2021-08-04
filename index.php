@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Perpustakaan</title>
 </head>
 <body>
-<h2>DATABASE perpustakaan</h2>
+<h2>DATABASE Buku</h2>
 <a href="tambah.php">Tambah Data</a>
 <table border="1">
 	<tr>
